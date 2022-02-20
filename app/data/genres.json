@@ -1,0 +1,21 @@
+{
+  "12": { "name": "Petualangan" },
+  "14": { "name": "Fantasi" },
+  "16": { "name": "Animasi" },
+  "18": { "name": "Drama" },
+  "27": { "name": "Horror" },
+  "28": { "name": "Action" },
+  "35": { "name": "Komedi" },
+  "36": { "name": "Sejarah" },
+  "37": { "name": "Barat" },
+  "53": { "name": "Penculikan" },
+  "80": { "name": "Kriminal" },
+  "99": { "name": "Dokumenter" },
+  "878": { "name": "Fiksi" },
+  "9648": { "name": "Misteri" },
+  "10402": { "name": "Musik" },
+  "10749": { "name": "Romantis" },
+  "10751": { "name": "Keluarga" },
+  "10752": { "name": "Perang" },
+  "10770": { "name": "Film TV" }
+}

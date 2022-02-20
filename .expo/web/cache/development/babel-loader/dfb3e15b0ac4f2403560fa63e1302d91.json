@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from \"./app/navigation\";\nexport default App;","map":{"version":3,"sources":["/Users/antoniussuharmono/dev/binus/ujian/react-native-ujian/movie-list-ujian/App.js"],"names":["App"],"mappings":"AAAA,OAAOA,GAAP;AAEA,eAAeA,GAAf","sourcesContent":["import App from './app/navigation';\n\nexport default App;\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "name": "Movie List - Ujian",
+    "slug": "movie-list-ujian",
+    "description": "List Film-Film Terkini dari The Movie Database (TMDb).",
+    "version": "1.0.0",
+    "privacy": "public",
+    "orientation": "portrait",
+    "icon": "./app/assets/images/icon.png",
+    "splash": {
+      "image": "./app/assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false
+    },
+    "githubUrl": "https://github.com/suharmono/movie-list-ujian"
+  }
+}
